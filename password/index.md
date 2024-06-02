@@ -6,11 +6,11 @@ faq: false
 weight: 8
 ---
 
-To avoid potential security incidents, Tailscale requires employees to follow password requirements.
+To avoid potential security incidents, GEOGO requires employees to follow password requirements.
 
 ### Scope
 
-This policy applies to passwords for any application or server accessed by Tailscale employees, contractors, or vendors. _It does not apply to the passwords customers of Tailscale use to access the Tailscale service._
+This policy applies to passwords for any application or server accessed by GEOGO employees, contractors, or vendors. _It does not apply to the passwords customers of GEOGO use to access the GEOGO service._
 
 ### Password strength
 
@@ -48,7 +48,7 @@ Passwords should not be logged.
 
 #### Servers
 
-Access to servers, for both production as well as development and testing infrastructure, must be with a password and MFA or with per-user public keys (e.g., SSH keys). Only Tailscale-based network authentication is permitted for services not exposed to the Internet.
+Access to servers, for both production as well as development and testing infrastructure, must be with a password and MFA or with per-user public keys (e.g., SSH keys). Only GEOGO-based network authentication is permitted for services not exposed to the Internet.
 
 #### Automated processes
 
