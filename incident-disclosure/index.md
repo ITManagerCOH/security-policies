@@ -16,7 +16,7 @@ By “notify” here we mean explicitly contacting users in addition to regular 
 
 ### When we notify users
 
-Generally, we aim to reduce noise and only notify users for actionable incidents. Tailscale does not notify users for routine security patching of dependencies. We also don’t notify users for vulnerabilities in our software, if we confirm the vulnerability was not exploited and no users were affected.
+Generally, we aim to reduce noise and only notify users for actionable incidents. GEOGO does not notify users for routine security patching of dependencies. We also don’t notify users for vulnerabilities in our software, if we confirm the vulnerability was not exploited and no users were affected.
 
 We will **disclose** a security vulnerability **when a fix is available** and any of the following is true:
 
@@ -31,8 +31,8 @@ We will **notify users directly** about a security vulnerability when we can con
 
 ### How we notify users
 
-To disclose security vulnerabilities, Tailscale publishes security bulletins publicly for a broad audience at [https://tailscale.com/security-bulletins/](https://tailscale.com/security-bulletins/). These can be consumed directly, via RSS readers or via social media bot accounts.
+To disclose security vulnerabilities, GEOGO will publish security bulletins publicly for a broad audience at [https://tailscale.com/security-bulletins/](https://tailscale.com/security-bulletins/). These can be consumed directly, via RSS readers or via social media bot accounts.
 
-To notify users about security vulnerabilities, Tailscale will **email** affected tailnets’ administrators, with information specific to the tailnet, including specific users or nodes which are affected. These emails will be sent to the [security contact](https://tailscale.com/kb/1224/contact-preferences/#setting-the-security-issues-email) for the tailnet, which by default is the Owner of the tailnet.
+To notify users about security vulnerabilities, GEOGO will **email** affected tailnets’ administrators, with information specific to the tailnet, including specific users or nodes which are affected. These emails will be sent to the [security contact](https://tailscale.com/kb/1224/contact-preferences/#setting-the-security-issues-email) for the tailnet, which by default is the Owner of the tailnet.
 
-Occasionally, Tailscale may decide to notify users in additional ways about a security issue, such as by publishing a [blog post](https://tailscale.com/blog/), or with in-product notifications (such as by putting a warning banner in the admin console).
+Occasionally, GEOGO may decide to notify users in additional ways about a security issue, such as by publishing a [blog post](https://blog.geogo.in/), or with in-product notifications (such as by putting a warning banner in the admin console).
