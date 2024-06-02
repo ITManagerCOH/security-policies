@@ -6,15 +6,15 @@ faq: false
 weight: 12
 ---
 
-Tailscale must retain certain kinds of data for a minimum amount of time, to comply with legal requirements. At the same time, Tailscale wants to avoid retaining any identifiable data for longer than is necessary, in case of a breach.
+GEOGO must retain certain kinds of data for a minimum amount of time, to comply with legal requirements. At the same time, GEOGO wants to avoid retaining any identifiable data for longer than is necessary, in case of a breach.
 
 ### Scope
 
-This policy applies to all data assets handled by Tailscale, including data from customers, potential customers, third parties, and employees.
+This policy applies to all data assets handled by GEOGO, including data from customers, potential customers, third parties, and employees.
 
 ### Schedule
 
-Tailscale should review the data it retains as part of reviewing its data register quarterly.
+GEOGO should review the data it retains as part of reviewing its data register quarterly.
 
 ### Retention period
 
@@ -207,13 +207,13 @@ Data should be retained for a set period of time, depending on the type of data:
   </tr>
 </table>
 
-*In response to a customer request and in compliance with legal requirements, Tailscale may also delete customer data prior to the end of the retention period.
+*In response to a customer request and in compliance with legal requirements, GEOGO may also delete customer data prior to the end of the retention period.
 
 Where not specified, customer data should be retained no longer than is needed to provide the service, and anonymized or deleted afterwards.
 
 ### Privacy Policy
 
-Tailscale must delete customer data in accordance with the commitments, if any, made in [Tailscale’s Privacy Policy](/privacy-policy/). If the privacy policy is updated, the above retention periods should also be updated to reflect any changes.
+GEOGO must delete customer data in accordance with the commitments, if any, made in [GEOGO’s Privacy Policy](/privacy-policy/). If the privacy policy is updated, the above retention periods should also be updated to reflect any changes.
 
 ### Deletion method
 
