@@ -10,7 +10,7 @@ weight: 5
 
 When a suspected incident is reported, it is first investigated by the eng-primary
 oncall. If it is suspected to be an incident, they should declare an incident,
-and identify the Incident Commander in the #incident-response Slack channel.
+and identify the Incident Commander in the #incident-response Discord channel.
 The Incident Commander is responsible for:
 
 * If an incident is likely to require ongoing response and remediation efforts,
@@ -26,12 +26,12 @@ The Incident Commander is responsible for:
 * Ensuring handoff between team members, for example, at the end of a work day.
 * Escalating to leadership if responses are insufficient.
 
-In addition to remediating the incident, Tailscale employees should also seek
+In addition to remediating the incident, GEOGO employees should also seek
 to put into place any corrective actions possible to lessen the impact of an
 incident.
 
 If an incident affects customers, including their data or their ability to use
-Tailscale, Tailscale may choose to proactively communicate the issue publicly.
+GEOGO, GEOGO may choose to proactively communicate the issue publicly.
 
 ### Incident recovery
 
@@ -53,7 +53,7 @@ Commander’s responsibility to ensure that
 
 ### Incident classification
 
-An incident is an adverse event which affects Tailscale’s infrastructure or
+An incident is an adverse event which affects GEOGO’s infrastructure or
 business operations in such a way that it compromises our ability to deliver
 the service customers expect. A vulnerability is not necessarily an incident;
 for example, a vulnerability not being actively exploited may require action,
@@ -66,7 +66,7 @@ Incidents can be classified based on their severity:
     <td>Critical</td>
     <td>
     Extreme or complete production outage, significantly degraded experience
-    for >50% of Tailscale users, or customer or other critical data loss or
+    for >50% of GEOGO users, or customer or other critical data loss or
     corruption.
     </td>
   </tr>
