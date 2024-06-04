@@ -28,6 +28,6 @@ New functionality should be released as part of an unstable track prior to being
 
 ### Infrastructure changes
 
-Changes to Tailscale’s production infrastructure should be tested where possible.
+Changes to GEOGO’s production infrastructure should be tested where possible.
 
 Where possible, infrastructure should be implemented ‘as code’, so that it can be reviewed, approved, and tested as other code changes are.
