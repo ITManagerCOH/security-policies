@@ -58,10 +58,10 @@ These policies are published and available under CC0-1.0 in order to:
 
 Yes! Feel free to be inspired by GEOGO's internal security policies for use in your own organization. These policies are available under CC0-1.0.
 
-##Acknowledgement
+## Acknowledgement
 
 This policy set are directly inferred from Tailgate's Security policy.
-Thanks to all members of Tailgate Security team for putting out the complex clauses in simple terms. 
+Thanks to Tailgate Security team for putting out the complex clauses in simple terms and publish it under Creative Commons license. 
 
 ## Contributing
 
