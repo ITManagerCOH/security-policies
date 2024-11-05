@@ -1,3 +1,5 @@
+# The policies have been forked by CloudOnHire and not yet finalized
+
 # GEOGO Security Policies
 
 GEOGO has several security policies in place to properly identify, respond to, and mitigate potential security risks. All employees, vendors and contractors working with GEOGO must follow these policies in order to best protect GEOGO’s and its customers’ data.
