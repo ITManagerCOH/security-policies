@@ -6,10 +6,10 @@ faq: false
 weight: 2
 ---
 
-GEOGO reviews risks on a regular basis, to ensure proper mitigations are in place.
+CloudOnHire reviews risks on a regular basis, to ensure proper mitigations are in place.
 
 ### Scope
-This policy covers any risk that could affect confidentiality, availability, and integrity of GEOGO’s key information assets and systems.
+This policy covers any risk that could affect confidentiality, availability, and integrity of CloudOnHire’s key information assets and systems.
 
 Risk assessments can be conducted on any information system, to include applications, servers, and networks, and any process or procedure by which these systems are administered and/or maintained.
 
