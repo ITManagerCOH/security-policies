@@ -44,4 +44,4 @@ If a suspected incident is detected, it should be responded to following the [In
 
 We respond to reported incidents, and resolve and determine impact as soon as possible. We aim to remediate incidents as soon as possible.
 
-Confirmed incidents may be disclosed publicly per our [disclosure policy](/security-policies/incident-disclosure/).
+Confirmed incidents may be disclosed publicly as per our [disclosure policy](/security-policies/incident-disclosure/).
