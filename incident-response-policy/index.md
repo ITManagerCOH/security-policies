@@ -36,7 +36,7 @@ The Security Review Team:
 * Checks for repeated login failures or account lockouts
 * Investigates unexpected system reboots
 
-CloudOnHire’s Security Review Team reviews and responds to potential third-party reports of security issues to Chief Security Office promptly.
+CloudOnHire’s Security Review Team reviews and responds to potential third-party reports of security issues to Chief Information Officer promptly.
 
 ### Incident response and remediation
 
