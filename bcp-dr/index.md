@@ -8,20 +8,20 @@ weight: 6
 
 ### Context
 
-GEOGO’s customers are dependent on our services operating as normal. Proper planning, monitoring, and recovery steps are critical to address incidents that may impact the integrity or availability of services and data is critical to the operation of GEOGO. Business Continuity and Disaster Recovery is a set of processes and techniques used to help an organization recover from a disaster and resume routine business operations.
+CloudOnHire’s customers are dependent on our services operating as normal. Proper planning, monitoring, and recovery steps are critical to address incidents that may impact the integrity or availability of services and data is critical to the operation of CloudOnHire. Business Continuity and Disaster Recovery is a set of processes and techniques used to help an organization recover from a disaster and resume routine business operations.
 
 ### Scope
 
-The following minimum standards apply to GEOGO’s assets as managed by employees, contractors and vendors. These include but are not limited to: cloud service providers, cloud regions, major components within cloud regions, key vendors (those included in our [vendor assessment](/security-policies/vendor/), and key open-source components.
+The following minimum standards apply to CloudOnHire’s assets as managed by employees, contractors and vendors. These include but are not limited to: cloud service providers, cloud regions, major components within cloud regions, key vendors (those included in our [vendor assessment](/security-policies/vendor/), and key open-source components.
 
 ### Schedule
 
-GEOGO reviews its backups, and any BCP/DR plans annually with a walkthrough exercise. GEOGO tests its ability to restore production data at least annually.
+CloudOnHire reviews its backups, and any BCP/DR plans annually with a walkthrough exercise. CloudOnHire tests its ability to restore production data at least annually.
 
 
 ### Backups
 
-GEOGO regularly reviews backups and service redundancy to ensure they can be used in the event of an outage. The Security Review Team:
+CloudOnHire regularly reviews backups and service redundancy to ensure they can be used in the event of an outage. The Security Review Team:
 
 * Ensures backups for key services are in place
 * Tests backups and restore procedures
