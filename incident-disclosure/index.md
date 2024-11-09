@@ -16,7 +16,7 @@ By “notify” here we mean explicitly contacting users in addition to regular 
 
 ### When we notify users
 
-Generally, we aim to reduce noise and only notify users for actionable incidents. GEOGO does not notify users for routine security patching of dependencies. We also don’t notify users for vulnerabilities in our software, if we confirm the vulnerability was not exploited and no users were affected.
+Generally, we aim to reduce noise and only notify users for actionable incidents. CloudOnHire does not notify users for routine security patching of dependencies. We also don’t notify users for vulnerabilities in our software, if we confirm the vulnerability was not exploited and no users were affected.
 
 We will **disclose** a security vulnerability **when a fix is available** and any of the following is true:
 
@@ -24,15 +24,15 @@ We will **disclose** a security vulnerability **when a fix is available** and an
 * We can confirm that tailnet metadata or data was visible to an unauthorized party; or
 * We cannot confirm that no users were affected by the vulnerability.
 
-We will **notify users directly** about a security vulnerability when we can confirm that the tailnet was affected, and any of the following is true:
+We will **notify users directly** about a security vulnerability when we can confirm that the CloudOnHire was affected, and any of the following is true:
 
 * User action is needed to fix the vulnerability, and it is a critical or high impact vulnerability; or
 * We can confirm that tailnet metadata or data was visible to an unauthorized party.
 
 ### How we notify users
 
-To disclose security vulnerabilities, GEOGO will publish security bulletins publicly for a broad audience at [https://tailscale.com/security-bulletins/](https://tailscale.com/security-bulletins/). These can be consumed directly, via RSS readers or via social media bot accounts.
+To disclose security vulnerabilities, CloudOnHire will publish security bulletins publicly for a broad audience at [https://tailscale.com/security-bulletins/](https://tailscale.com/security-bulletins/). These can be consumed directly, via RSS readers or via social media bot accounts.
 
-To notify users about security vulnerabilities, GEOGO will **email** affected tailnets’ administrators, with information specific to the tailnet, including specific users or nodes which are affected. These emails will be sent to the [security contact](https://tailscale.com/kb/1224/contact-preferences/#setting-the-security-issues-email) for the tailnet, which by default is the Owner of the tailnet.
+To notify users about security vulnerabilities, CloudOnHire will **email** affected CloudOnHires’ administrators, with information specific to the CloudOnHire, including specific users or nodes which are affected. These emails will be sent to the [security contact](https://tailscale.com/kb/1224/contact-preferences/#setting-the-security-issues-email) for the tailnet, which by default is the Owner of the tailnet.
 
-Occasionally, GEOGO may decide to notify users in additional ways about a security issue, such as by publishing a [blog post](https://blog.geogo.in/), or with in-product notifications (such as by putting a warning banner in the admin console).
+Occasionally, CloudOnHire may decide to notify users in additional ways about a security issue, such as by publishing a [blog post](https://cloudonhire.com/blog/), or with in-product notifications (such as by putting a warning banner in the admin console).
