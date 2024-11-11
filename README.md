@@ -1,4 +1,4 @@
-# The policies have been forked by CloudOnHire and not yet finalized
+# Policy Draft
 
 # CloudOnHire Security Policies
 
