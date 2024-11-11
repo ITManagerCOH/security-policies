@@ -8,8 +8,6 @@ We’ve published these publicly for transparency, so that you can see where we 
 
 _Since these are our internal policies, some links to internal documents or resources are only visible to employees._
 
-This repository is the source of truth for the policies available at https://geogo.in/security-policies/.
-
 These policies were last reviewed on 2024-11-09.
 
 ### FAQ
@@ -32,7 +30,7 @@ This repository includes:
 * [Data retention and deletion policy](/data-retention-deletion/index.md)
 * [Incident disclosure and notification policy](/incident-disclosure/index.md)
 
-### When does GEOGO review or update these policies?
+### When does CloudOnHire review or update these policies?
 
 The Chief Information Officer is responsible for reviewing and updating security policies on a quarterly basis.
 See [overview](/overview.md) of policies.
